@@ -221,6 +221,10 @@ p{
     color:#03a9f4;
     font-size: 18px;
 }
+.box{
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+
+}
 
 @media(max-width: 1000px)
 {
